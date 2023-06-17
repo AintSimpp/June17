@@ -1,0 +1,7 @@
+1. Create new file
+2. Add lines
+3. Commit
+4. Update line of codes
+5. View codes that have
+been added
+6. View last 2 commits
